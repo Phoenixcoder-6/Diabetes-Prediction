@@ -25,6 +25,7 @@ Technologies Used:
               Scikit-learn for machine learning algorithms and model evaluation
               Matplotlib and Seaborn for data visualization
 -->Installation:
+
                   -->Clone the repository: git clone https://github.com/Phoenixcoder-6/diabetes-prediction.git
                   
                   -->Navigate to the project directory: cd diabetes-prediction
