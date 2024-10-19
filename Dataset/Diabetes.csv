@@ -1,1 +1,35 @@
+Dataset Description
 
+The dataset used for this project contains 769 rows and 9 columns that represent various health metrics relevant to diabetes risk assessment. These features are known to influence the likelihood of diabetes in patients. The data is commonly used in machine learning to train models for predicting whether a person is likely to develop diabetes.
+
+Columns (Features):
+
+Pregnancies:Type:
+Glucose:Plasma glucose concentration after a 2-hour oral glucose tolerance test.
+BloodPressure:Diastolic blood pressure (mm Hg).
+SkinThickness:Triceps skinfold thickness (mm).
+Insulin: 2-hour serum insulin level (mu U/ml).
+BMI: Body Mass Index, a measure of body fat based on height and weight.
+DiabetesPedigreeFunction: A function that estimates diabetes risk based on family history (genetic predisposition).
+Age: Age of the patient (years).
+
+Outcome:
+
+Target variable that indicates whether the patient has diabetes:
+1: Diabetic.
+0: Non-diabetic.
+
+Type: Categorical (binary).
+
+Summary:
+
+-->Rows (Samples): 769
+-->Columns (Features): 8 input features and 1 output (Outcome).
+
+Objective: To predict the Outcome (whether a patient has diabetes) based on the given health metrics.
+
+Insights:
+
+-->The dataset contains a mix of medical factors, such as glucose levels and insulin, as well as personal data, like age and BMI, which are all correlated to diabetes risk.
+
+-->The dataset is commonly used for classification tasks, making it a good fit for machine learning models aimed at early detection and diagnosis of diabetes.
