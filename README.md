@@ -20,9 +20,13 @@ Employed techniques such as data cleaning, normalization, and feature selection 
 Technologies Used:
 
 -->Programming Language: Python
--->Libraries: Pandas for data manipulation
+-->Libraries: 
+              Pandas for data manipulation
+              
               NumPy for numerical computations
+              
               Scikit-learn for machine learning algorithms and model evaluation
+              
               Matplotlib and Seaborn for data visualization
 -->Installation:
 
