@@ -21,13 +21,12 @@ Technologies Used:
 
 -->Programming Language: Python
 -->Libraries: 
-              Pandas for data manipulation
-              
-              NumPy for numerical computations
-              
-              Scikit-learn for machine learning algorithms and model evaluation
-              
-              Matplotlib and Seaborn for data visualization
+                
+                 Pandas for data manipulation
+                 NumPy for numerical computations
+                 Scikit-learn for machine learning algorithms and model evaluation
+                  Matplotlib and Seaborn for data visualization
+                  
 -->Installation:
 
                   -->Clone the repository: git clone https://github.com/Phoenixcoder-6/diabetes-prediction.git
